@@ -1,0 +1,11 @@
+C:\Users\Sanjay\source\repos\Factory Sample\InvoiceInterface\bin\Debug\InvoiceInterface.dll
+C:\Users\Sanjay\source\repos\Factory Sample\InvoiceInterface\bin\Debug\InvoiceInterface.pdb
+C:\Users\Sanjay\source\repos\Factory Sample\InvoiceInterface\obj\Debug\InvoiceInterface.csprojAssemblyReference.cache
+C:\Users\Sanjay\source\repos\Factory Sample\InvoiceInterface\obj\Debug\InvoiceInterface.csproj.CoreCompileInputs.cache
+C:\Users\Sanjay\source\repos\Factory Sample\InvoiceInterface\obj\Debug\InvoiceInterface.dll
+C:\Users\Sanjay\source\repos\Factory Sample\InvoiceInterface\obj\Debug\InvoiceInterface.pdb
+F:\CentralSquare Technologies\Project-Self\Factory Sample\InvoiceInterface\bin\Debug\InvoiceInterface.dll
+F:\CentralSquare Technologies\Project-Self\Factory Sample\InvoiceInterface\bin\Debug\InvoiceInterface.pdb
+F:\CentralSquare Technologies\Project-Self\Factory Sample\InvoiceInterface\obj\Debug\InvoiceInterface.csprojAssemblyReference.cache
+F:\CentralSquare Technologies\Project-Self\Factory Sample\InvoiceInterface\obj\Debug\InvoiceInterface.dll
+F:\CentralSquare Technologies\Project-Self\Factory Sample\InvoiceInterface\obj\Debug\InvoiceInterface.pdb

@@ -1,0 +1,21 @@
+C:\Users\Sanjay\source\repos\Factory Sample\FactoryInvoice\bin\Debug\FactoryInvoice.dll
+C:\Users\Sanjay\source\repos\Factory Sample\FactoryInvoice\bin\Debug\FactoryInvoice.pdb
+C:\Users\Sanjay\source\repos\Factory Sample\FactoryInvoice\bin\Debug\Invoice.dll
+C:\Users\Sanjay\source\repos\Factory Sample\FactoryInvoice\bin\Debug\InvoiceInterface.dll
+C:\Users\Sanjay\source\repos\Factory Sample\FactoryInvoice\bin\Debug\InvoiceInterface.pdb
+C:\Users\Sanjay\source\repos\Factory Sample\FactoryInvoice\bin\Debug\Invoice.pdb
+C:\Users\Sanjay\source\repos\Factory Sample\FactoryInvoice\obj\Debug\FactoryInvoice.csprojAssemblyReference.cache
+C:\Users\Sanjay\source\repos\Factory Sample\FactoryInvoice\obj\Debug\FactoryInvoice.csproj.CoreCompileInputs.cache
+C:\Users\Sanjay\source\repos\Factory Sample\FactoryInvoice\obj\Debug\FactoryInvoice.csproj.CopyComplete
+C:\Users\Sanjay\source\repos\Factory Sample\FactoryInvoice\obj\Debug\FactoryInvoice.dll
+C:\Users\Sanjay\source\repos\Factory Sample\FactoryInvoice\obj\Debug\FactoryInvoice.pdb
+F:\CentralSquare Technologies\Project-Self\Factory Sample\FactoryInvoice\bin\Debug\FactoryInvoice.dll
+F:\CentralSquare Technologies\Project-Self\Factory Sample\FactoryInvoice\bin\Debug\FactoryInvoice.pdb
+F:\CentralSquare Technologies\Project-Self\Factory Sample\FactoryInvoice\bin\Debug\Invoice.dll
+F:\CentralSquare Technologies\Project-Self\Factory Sample\FactoryInvoice\bin\Debug\InvoiceInterface.dll
+F:\CentralSquare Technologies\Project-Self\Factory Sample\FactoryInvoice\bin\Debug\InvoiceInterface.pdb
+F:\CentralSquare Technologies\Project-Self\Factory Sample\FactoryInvoice\bin\Debug\Invoice.pdb
+F:\CentralSquare Technologies\Project-Self\Factory Sample\FactoryInvoice\obj\Debug\FactoryInvoice.csprojAssemblyReference.cache
+F:\CentralSquare Technologies\Project-Self\Factory Sample\FactoryInvoice\obj\Debug\FactoryInvoice.csproj.CopyComplete
+F:\CentralSquare Technologies\Project-Self\Factory Sample\FactoryInvoice\obj\Debug\FactoryInvoice.dll
+F:\CentralSquare Technologies\Project-Self\Factory Sample\FactoryInvoice\obj\Debug\FactoryInvoice.pdb

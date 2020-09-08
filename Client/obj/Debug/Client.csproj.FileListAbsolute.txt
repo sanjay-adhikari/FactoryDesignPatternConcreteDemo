@@ -1,0 +1,27 @@
+C:\Users\Sanjay\source\repos\Factory Sample\Client\bin\Debug\Client.exe.config
+C:\Users\Sanjay\source\repos\Factory Sample\Client\bin\Debug\Client.exe
+C:\Users\Sanjay\source\repos\Factory Sample\Client\bin\Debug\Client.pdb
+C:\Users\Sanjay\source\repos\Factory Sample\Client\bin\Debug\FactoryInvoice.dll
+C:\Users\Sanjay\source\repos\Factory Sample\Client\bin\Debug\InvoiceInterface.dll
+C:\Users\Sanjay\source\repos\Factory Sample\Client\bin\Debug\Invoice.dll
+C:\Users\Sanjay\source\repos\Factory Sample\Client\bin\Debug\FactoryInvoice.pdb
+C:\Users\Sanjay\source\repos\Factory Sample\Client\bin\Debug\InvoiceInterface.pdb
+C:\Users\Sanjay\source\repos\Factory Sample\Client\bin\Debug\Invoice.pdb
+C:\Users\Sanjay\source\repos\Factory Sample\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Sanjay\source\repos\Factory Sample\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Sanjay\source\repos\Factory Sample\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Sanjay\source\repos\Factory Sample\Client\obj\Debug\Client.exe
+C:\Users\Sanjay\source\repos\Factory Sample\Client\obj\Debug\Client.pdb
+F:\CentralSquare Technologies\Project-Self\Factory Sample\Client\bin\Debug\Client.exe.config
+F:\CentralSquare Technologies\Project-Self\Factory Sample\Client\bin\Debug\Client.exe
+F:\CentralSquare Technologies\Project-Self\Factory Sample\Client\bin\Debug\Client.pdb
+F:\CentralSquare Technologies\Project-Self\Factory Sample\Client\bin\Debug\FactoryInvoice.dll
+F:\CentralSquare Technologies\Project-Self\Factory Sample\Client\bin\Debug\InvoiceInterface.dll
+F:\CentralSquare Technologies\Project-Self\Factory Sample\Client\bin\Debug\Invoice.dll
+F:\CentralSquare Technologies\Project-Self\Factory Sample\Client\bin\Debug\FactoryInvoice.pdb
+F:\CentralSquare Technologies\Project-Self\Factory Sample\Client\bin\Debug\InvoiceInterface.pdb
+F:\CentralSquare Technologies\Project-Self\Factory Sample\Client\bin\Debug\Invoice.pdb
+F:\CentralSquare Technologies\Project-Self\Factory Sample\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\CentralSquare Technologies\Project-Self\Factory Sample\Client\obj\Debug\Client.csproj.CopyComplete
+F:\CentralSquare Technologies\Project-Self\Factory Sample\Client\obj\Debug\Client.exe
+F:\CentralSquare Technologies\Project-Self\Factory Sample\Client\obj\Debug\Client.pdb
